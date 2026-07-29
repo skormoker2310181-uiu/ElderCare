@@ -43,13 +43,6 @@ ElderCare is an individual Human–Computer Interaction (HCI) project that appli
 - Human-Centered Design
 - Interactive Prototyping
 
-## Prototype
-
-[View the Interactive Prototype](YOUR_FIGMA_LINK)
-
-## Screenshots
-
-(Add screenshots here)
 
 ## Author
 
